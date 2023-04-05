@@ -13,7 +13,7 @@ struct mahasiswa
     char nama[20];
     DetailAlamat alamat;
     int umur;
-};
+}; 
 
 int main() {
     mahasiswa mhs;
